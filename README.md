@@ -7,4 +7,4 @@
 - 📫 How to reach me: <a href="mailto:GNIvanov21@codingburgas.bg">GNIvanov21@codingburgas.bg</a>
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love dogs
-<img src = "https://i.pinimg.com/originals/47/df/0f/47df0fe4677bf0dd2b4cf1c53c40fcce.gif">
+<img src = "https://i.pinimg.com/originals/47/df/0f/47df0fe4677bf0dd2b4cf1c53c40fcce.gif" width = "498" height="498">
