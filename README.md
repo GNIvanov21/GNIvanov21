@@ -23,7 +23,8 @@
        <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="50" weight="50">
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="50" weight="50">
 <details style = "display: inline;">
- 
-🏆 My Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="59818ec9-206e-469c-a961-381810d9cf67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <summary>
+    🏆 My Badges
+  </summary>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="59818ec9-206e-469c-a961-381810d9cf67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </details> 
