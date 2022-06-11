@@ -24,12 +24,6 @@
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="50" weight="50">
 <details style = "display: inline;">
  
-<summary align-items:"inline";><b>🏆 My Credly Badges</b></summary>
- <div>
- <a href ="https://www.credly.com/badges/f5058dab-4315-4143-8f16-839d33e58464"><img align="left" alt="HTML&CSS Badge" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
-     
-<a href ="https://www.credly.com/earner/earned/badge/112e5822-f5e6-4e71-a91c-68d581fb5cd2"><img align="left" alt="Word Specialist Badge" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
-      
-<a href ="https://www.credly.com/earner/earned/badge/a3527a24-88c9-428d-96e3-9d206f3a88f6"><img align="left" alt="JavaScript Badge" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a>
- </div>
+🏆 My Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="59818ec9-206e-469c-a961-381810d9cf67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </details> 
