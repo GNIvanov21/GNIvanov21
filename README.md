@@ -17,3 +17,4 @@
        <a href="https://en.wikipedia.org/wiki/Git" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/GitHub" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/Blender_(software)" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" height="50" weight="50">
+             <a href="https://en.wikipedia.org/wiki/Figma_(software)" ><img src="https://en.wikipedia.org/wiki/File:Figma-logo.svg" height="50" weight="50">
