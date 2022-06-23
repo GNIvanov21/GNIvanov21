@@ -25,5 +25,5 @@
 <details>
  <summary><h6>Professional Certificates:<h6></summary>
 <a href="https://www.credly.com/earner/earned/badge/59818ec9-206e-469c-a961-381810d9cf67" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
-<a href="https://www.credly.com/badges/ac8713e5-1f6b-4388-b889-740bee101dfb" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
+<a href="https://www.credly.com/badges/ac8713e5-1f6b-4388-b889-740bee101dfb" > <img src="https://images.credly.com/size/340x340/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200"> </a>
 </details>
