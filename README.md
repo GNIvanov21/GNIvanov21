@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning C++, HTML, CSS and JS
 - 💬 Ask me about my interests
 - 📫 How to reach me: <a href="mailto:GNIvanov21@codingburgas.bg">GNIvanov21@codingburgas.bg</a>
-- 😄 Pronouns:He/Him
 - <img src="https://media.giphy.com/media/lk9MPPlFZfETm/giphy.gif">
 <h1>Languages and Tools:</h1>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" height="50" weight="50"> </a>
